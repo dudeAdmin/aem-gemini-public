@@ -12,7 +12,8 @@ https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4
 </video>
 
 To use this Google's API key need to be registered in ConfigMgr.
-![alt text](image.png)
+<img width="1727" height="351" alt="image" src="https://github.com/user-attachments/assets/5574896f-fcd0-40b7-80ec-0238e8083f27" />
+
 
 Contact me in case of any queries or to have access to the code: pratchaudhari@gmail.com  https://www.linkedin.com/in/prateek-chaudhari-aem/
 
