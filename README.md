@@ -7,10 +7,7 @@ Feature:
 
 
 Please see demo here:
-https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4
-<video width="640" height="320" controls>
-  <source src="https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4" type="video/mp4">
-</video>
+https://youtu.be/RhnUxA-hAPg
 
 To use this Google's API key need to be registered in ConfigMgr.
 <img width="1727" height="351" alt="image" src="https://github.com/user-attachments/assets/5574896f-fcd0-40b7-80ec-0238e8083f27" />
